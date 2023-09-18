@@ -10,4 +10,4 @@ Task Feature Description:
 3.	DELINQ: Number of delinquent credit lines
 4.	DEROG: Number of major derogatory reports
 5.	VALUE: Value of Current Property
-6.	CLAGE: Age of oldest tradeline in months 
+6.	CLAGE: Age of oldest tradeline in months
